@@ -1,4 +1,4 @@
-#Cameron Rooks's First CS193 Homework
+## Cameron Rooks's First CS193 Homework
 
 - The TA's for CS193 are pretty cool
 - The class seems pretty relaxed overall
